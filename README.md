@@ -22,8 +22,10 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Deployed link
 * Local storage link
+http://localhost:3001
 
 * Deployed Heroku link
 https://kiris-notes.herokuapp.com/
 
 ## Screenshot
+![image](https://user-images.githubusercontent.com/94418477/158102107-0e44cd0a-8469-403a-b4f2-08a6c5ae6328.png)
